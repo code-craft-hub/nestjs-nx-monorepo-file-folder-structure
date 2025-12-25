@@ -1,0 +1,1 @@
+# nestjs-nx-monorepo-file-folder-structure
